@@ -1,0 +1,6 @@
+{
+  "name": "AniStream VPS",
+  "description": "Self-hosted anime streaming platform and media server with automatic VPS folder scanning, season sorting, custom artwork uploads, and viewer requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
